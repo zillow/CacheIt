@@ -1,0 +1,16 @@
+PODS:
+  - CacheIt (1.0)
+
+DEPENDENCIES:
+  - CacheIt (from `../`)
+
+EXTERNAL SOURCES:
+  CacheIt:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  CacheIt: e38b318de44fbfa7378cbe416e8374385161f5c5
+
+PODFILE CHECKSUM: 75076891d87b43042fa510b47cbadd3491c4f706
+
+COCOAPODS: 1.9.1

@@ -1,0 +1,6 @@
+framework module CacheIt {
+  umbrella header "CacheIt-umbrella.h"
+
+  export *
+  module * { export * }
+}

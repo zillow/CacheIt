@@ -1,0 +1,21 @@
+{
+  "name": "CacheIt",
+  "version": "1.0",
+  "summary": "Easy to use caching library",
+  "description": "Easy to use caching library",
+  "homepage": "https://gitlab.zgtools.net/itx/zillow-docs/cacheket",
+  "license": "Private",
+  "authors": {
+    "Brett Hamlin": "bhamlin@zillowgroup.com",
+    "Amy Tsao": "amytis@zillowgroup.com"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source": {
+    "git": ""
+  },
+  "source_files": "Sources/CacheIt/**/*.{h,m,swift}",
+  "swift_versions": "5",
+  "swift_version": "5"
+}

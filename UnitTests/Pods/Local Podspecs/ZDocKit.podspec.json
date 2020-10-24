@@ -1,0 +1,34 @@
+{
+  "name": "ZDocKit",
+  "version": "0.1.0",
+  "summary": "A short description of ZDocKit.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/brettha/ZDocKit",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "brettha": "brettha@dotloop.com"
+  },
+  "source": {
+    "git": "https://github.com/brettha/ZDocKit.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "11.0"
+  },
+  "source_files": "ZDocKit/Classes/**/*",
+  "resources": "ZDocKit/Resources/**/*.{strings,png,pdf,txt,ttf}",
+  "dependencies": {
+    "ZDocNetwork": [
+
+    ],
+    "ZDocAppearance": [
+
+    ],
+    "Japx": [
+      "~> 2.0"
+    ]
+  }
+}
