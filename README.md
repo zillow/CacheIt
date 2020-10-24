@@ -27,7 +27,7 @@
 
 To integrate **CacheIt** into your Xcode project using SPM:
 1.  In xCode select File → Add Package Dependency
-2.  Enter the repository URL - git@gitlab.zgtools.net:itx/zillow-docs/zdocs-ios/cachekit.git
+2.  Enter the repository URL - git@github.com:zillow/CacheIt.git
 3.  Under "version" select the latest version
 
 
