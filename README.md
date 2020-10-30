@@ -5,9 +5,6 @@
 **CacheIt** makes it easy to add caching capabilities to your iOS app! 
 <br>
 
-[![pipeline status](https://gitlab.zgtools.net/itx/zillow-docs/zdocs-ios/cachekit/badges/development/pipeline.svg)](https://gitlab.zgtools.net/itx/zillow-docs/zdocs-ios/cachekit/commits/development)
-
-
 ## Features
 
 - [x] Fast and lightweight
@@ -36,7 +33,6 @@ To integrate **CacheIt** into your Xcode project using SPM:
 To integrate **CacheIt** into your Xcode project using CocoaPods, specify it in your `Podfile`:
 
 ```rubygi
-source 'git@gitlab.zgtools.net:itx/zillow-docs/zdocs-ios/pod-spec.git'
 platform :ios, '10.0'
 use_frameworks!
 
